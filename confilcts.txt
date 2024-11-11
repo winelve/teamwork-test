@@ -1,0 +1,2 @@
+1.这一个用于测试冲突的文档.
+wyq say: hhhh, This is a file to test how to deal with confilcts.
